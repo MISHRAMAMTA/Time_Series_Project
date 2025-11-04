@@ -47,13 +47,5 @@ The **SARIMA model** performed best with a MAPE around **2.5%**, meaning it capt
 - Auto-ARIMA gave a good starting point, but manual tuning helped achieve better accuracy.  
 - Visualization really helps in understanding how stable or seasonal the data is.
 
----
-
-## 🧰 Tools & Libraries
-- Python 🐍  
-- NumPy, Pandas  
-- Matplotlib, Seaborn, Plotly  
-- Statsmodels, Pmdarima  
-- Scikit-learn
 
 ---
